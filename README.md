@@ -1,5 +1,5 @@
 # bomb-party-cheat
-horrible cheat for the game bomb party on [jklm.fun](https://jklm.fun)
+horrible(best) cheat for the game bomb party on [jklm.fun](https://jklm.fun)
 (warning, may bug)
 
 # how to download!!!
