@@ -1,8 +1,8 @@
 # bomb-party-cheat
 horrible cheat for the game bomb party on [jklm.fun](https://jklm.fun)
+(warning, may bug)
 
-
-#how to download!!!
+# how to download!!!
 1. download the .py file(you MUST have [python](https://python.org)) installed, [download is here](https://example.com)
 2. go into your cmd and type ``` pip install pynput pyperclip pyautogui ```
 4. run the python file(no its not malware, its unobfuscated you can check)
