@@ -26,11 +26,13 @@ def on_press(key):
                     word = balls
                     break 
             if word:
+                suffixlastpos = pyautogui.position() 
                 pyautogui.moveTo(typearea)
                 pyautogui.leftClick()
                 pyautogui.typewrite(word, interval=0.10)
                 pyautogui.hotkey("enter")
                 pyperclip.copy("")
+                pyautogui.moveTo(suffixlastpos)
         elif key == Key.f2:
             typearea = pyautogui.position()
         if key == Key.f8:
