@@ -26,3 +26,6 @@ since people think everything is malware, you can check the sourcecode
 1. the imports are for modules needed for the cheat
 2. the on_press() function checks all pressed keys, if its either f2, f4, f8, or f9, it will do the respective feature
 3. the on release function is lowkey for no reason i js added it bc thats one of the args in the listener function, it checks for esc and if you press esc the script closes.
+4. ```with Listener(on_press=on_press, on_release=on_release) as listener: listener.join() ``` is the listener for the keys pressed.
+5. yuhhh not malware!!
+6. (ps, for some reason wd hates me so everything i make gets detected as malware if your REALLY scared this is malware, dont use it or check the source manually, you can open it in vscode and if you dont got vscode you can deaduzz open it in notepad)
